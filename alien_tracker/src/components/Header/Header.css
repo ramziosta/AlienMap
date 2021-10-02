@@ -1,0 +1,41 @@
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: o;
+    background-color: red;
+}
+li {
+    float: left;}
+
+
+li a { 
+    display:block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    margin: 10px 10px;
+   
+}
+
+
+
+
+.table{
+    display: table;
+    width: 100px;
+}
+
+#bar{
+    position: relative;
+    content: "";
+    background-color: black;
+    position: absolute;
+    left:100px;
+    top: 96px;
+    width: 600px;
+    height: 1px;
+
+    z-index: -1;
+}
