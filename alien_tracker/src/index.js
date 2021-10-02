@@ -13,7 +13,7 @@ ReactDOM.render(<App />, document.getElementById('root')
 
 // // Replace the uri string with your MongoDB deployment's connection string.
 // const uri =
-//   "mongodb+srv://ramziosta:dbUserPassword@cluster0.lznw5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+//   "mongodb+srv://rytieruyiuerytiuerytiuerytiuerytiuerytieurytieurytiuerytieuytieurytieruyeirytierytiuer";
 
 // const client = new MongoClient(uri);
 
